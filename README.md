@@ -1,4 +1,4 @@
-# DBMS_Labwork
+
 # 💾 DBMS_Labwork
 
 🌟 Welcome to **DBMS_Labwork** — a structured and colorful collection of **Database Management System laboratory experiments** designed for students and beginners.
